@@ -1,6 +1,7 @@
 ---
 layout: page
-title: CompSci
+title: Computer Science
+short-title: CompSci
 permalink: /cs/
 ---
 
