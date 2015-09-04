@@ -12,3 +12,8 @@ github_username:  tomdeakin
 # Build settings
 markdown: kramdown
 highlighter: pygments
+
+# Auto build a sitemap
+gems:
+  - jekyll-sitemap
+
