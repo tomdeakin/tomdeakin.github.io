@@ -6,6 +6,8 @@ permalink: /trumpet/
 
 Tom is a trumpet and natural (baroque) trumpet player, based in London and the Bristol area.
 
+{% include soundcloud.html %}
+
 Tom began playing the trumpet as a member of Harpenden Musicale, and soon joined the Luton and Bedfordshire Music Services. He attended Junior Academy at the Royal Academy of Music from the age of 14, where he took part in orchestral projects under conductors including Sir Colin Davis, and won the Dame Ruth Railton Chamber Music prize with the resident brass quintet. Tom was also a member of the National Childrens' Orchestra of Great Britain in their 25th anniversary year performing in venues including Symphony Hall, Birmingham. As a member of the National Youth Wind Ensemble, he took part in recording the Philip Grange *Clarinet Concerto* for the composer's CD.
 
 Having completed his degree in Mathematics and Computer Science at Bristol, Tom was awarded a Postgraduate Artist Diploma from Trinity Laban Conservatoire of Music and Dance in 2014, studying both the modern and natural trumpet with Robert Farley.
