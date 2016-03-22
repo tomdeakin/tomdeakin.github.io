@@ -17,3 +17,7 @@ Deakin, T., McIntosh-Smith, S., & Gaudin, W. (2015).
 *Expressing Parallelism on Many-Core for Deterministic Discrete Ordinates Transport*. Paper presented at International Workshop on Representative Applications (WRAp) at IEEE Cluster, Chicago, United States.
 
 Deakin, T. & McIntosh-Smith, S. (2015). *GPU-STREAM: Benchmarking the achievable memory bandwidth of Graphics Processing Units*. Poster to be presented at Supercomputing 2015, Austin, Texas, United States. Source code available on [GitHub](http://github.com/uob-hpc/gpu-stream/).
+
+Deakin, T., McIntosh-Smith, S., & Gaudin, W. (2016).
+*Many-core Acceleration of a Discrete Ordinates Transport Mini-app at Extreme Scale*. Paper to appear at International Supercomputing Conference, Frankfurt, Germany.
+
